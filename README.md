@@ -13,3 +13,4 @@ Some randomthings for my colloge life
 Contains:
 
     Code contest
+    Germany study plan
