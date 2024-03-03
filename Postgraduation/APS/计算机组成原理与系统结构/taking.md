@@ -6,7 +6,7 @@
  * @FilePath: \SUST\RandomThings\Postgraduation\APS\计算机组成原理与系统结构（empty）\taking.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
-# What is Computer Organizetion and Architecture
+# What is Computer Organization and Architecture
 
 计算机组成与原理是学习计算机系统的内部工作，结构化以及实现。
 Computer Organization and Architecture is the study of internal working, structuring, and implementation of a computer system.
